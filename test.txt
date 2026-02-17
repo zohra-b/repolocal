@@ -1,3 +1,5 @@
 Hola classe !
 Mon nom est Cat 
 et j'ai thuit ans
+
+Je fais un cours de GIt ! Je m'éclate !
